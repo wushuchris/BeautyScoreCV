@@ -1,0 +1,12 @@
+# pip install -r requirements.txt
+
+pandas
+matplotlib
+Pillow
+numpy
+scikit-learn
+tensorflow
+seaborn
+scikit-image
+tqdm
+dlib

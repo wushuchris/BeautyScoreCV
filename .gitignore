@@ -6,3 +6,6 @@
 
 # Also, do not ignore the .gitignore itself
 !.gitignore
+
+# Do not ignore the requirements file
+!requirements.txt
